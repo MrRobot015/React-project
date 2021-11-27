@@ -1,6 +1,6 @@
-function NewMeetupsPage(){
+export default function NewMeetupsPage(){
 
     return<div>new</div>
     
 }
-export default NewMeetupsPage;
+ 
